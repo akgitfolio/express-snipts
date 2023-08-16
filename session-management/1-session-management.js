@@ -1,0 +1,1 @@
+delete req.session.username;
